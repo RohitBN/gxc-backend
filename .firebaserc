@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "gamer-x-codes"
+  },
+  "targets": {
+    "gamer-x-codes": {
+      "hosting": {
+        "main": [
+          "gamer-x-codes"
+        ],
+        "admin": [
+          "gxc-admin"
+        ]
+      }
+    }
+  }
+}
